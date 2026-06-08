@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fra-nir-2026-06-08",
+    "homeTeam": "France",
+    "awayTeam": "Irlande du Nord",
+    "homeFlag": "🇫🇷",
+    "awayFlag": "🇬🇧",
+    "competition": "Match amical international",
+    "phase": "Amical",
+    "stadium": "Decathlon Arena - Stade Pierre-Mauroy",
+    "date": "2026-06-08T19:10:00.000Z",
+    "odds": {
+      "home": 1.13,
+      "draw": 9.0,
+      "away": 17.0
+    }
+  },
+  {
+  "id": "por-nga-2026-06-10",
+  "homeTeam": "Portugal",
+  "awayTeam": "Nigéria",
+  "homeFlag": "🇵🇹",
+  "awayFlag": "🇳🇬",
+  "competition": "Match amical international",
+  "phase": "Amical",
+  "stadium": "Estádio Dr. Magalhães Pessoa",
+  "date": "2026-06-10T19:45:00.000Z",
+  "odds": {
+    "home": 1.23,
+    "draw": 5.60,
+    "away": 10.00
+  }
+},
+  {
+    "id": "mex-rsa-2026-06-11",
+    "homeTeam": "Mexique",
+    "awayTeam": "Afrique du Sud",
+    "homeFlag": "🇲🇽",
+    "awayFlag": "🇿🇦",
+    "competition": "FIFA World Cup 2026",
+    "phase": "Group Stage - Group A",
+    "stadium": "Estadio Azteca",
+    "date": "2026-06-11T19:00:00.000Z",
+    "odds": {
+      "home": 1.40,
+      "draw": 4.60,
+      "away": 9.00
+    }
+  },
+  {
+    "id": "kor-cze-2026-06-12",
+    "homeTeam": "Corée du Sud",
+    "awayTeam": "République tchèque",
+    "homeFlag": "🇰🇷",
+    "awayFlag": "🇨🇿",
+    "competition": "FIFA World Cup 2026",
+    "phase": "Group Stage - Group A",
+    "stadium": "Estadio Akron",
+    "date": "2026-06-12T02:00:00.000Z",
+    "odds": {
+      "home": 2.60,
+      "draw": 3.15,
+      "away": 2.85
+    }
+  },
+  {
+    "id": "can-bih-2026-06-12",
+    "homeTeam": "Canada",
+    "awayTeam": "Bosnie-Herzégovine",
+    "homeFlag": "🇨🇦",
+    "awayFlag": "🇧🇦",
+    "competition": "FIFA World Cup 2026",
+    "phase": "Group Stage - Group B",
+    "stadium": "BMO Field",
+    "date": "2026-06-12T19:00:00.000Z",
+    "odds": {
+      "home": 1.76,
+      "draw": 3.60,
+      "away": 4.50
+    }
+  }
+]

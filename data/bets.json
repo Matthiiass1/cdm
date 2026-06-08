@@ -1,0 +1,44 @@
+[
+  {
+    "userId": "511960299314741299",
+    "username": "m8kam",
+    "matchId": "fra-nir-2026-06-08",
+    "choice": "home",
+    "amount": 1.99,
+    "oddsAtBet": 1.13,
+    "settled": true,
+    "createdAt": "2026-06-08T17:12:08.882Z",
+    "updatedAt": "2026-06-08T17:12:08.882Z",
+    "settledAt": "2026-06-08T21:04:05.797Z",
+    "result": "win",
+    "payout": 2.25
+  },
+  {
+    "userId": "551494720757694474",
+    "username": "matthikz",
+    "matchId": "fra-nir-2026-06-08",
+    "choice": "home",
+    "amount": 3,
+    "oddsAtBet": 1.13,
+    "settled": true,
+    "createdAt": "2026-06-08T17:13:57.516Z",
+    "updatedAt": "2026-06-08T17:13:57.516Z",
+    "settledAt": "2026-06-08T21:04:05.797Z",
+    "result": "win",
+    "payout": 3.39
+  },
+  {
+    "userId": "1493869293790826516",
+    "username": "nhmbz_37308",
+    "matchId": "fra-nir-2026-06-08",
+    "choice": "home",
+    "amount": 1.5,
+    "oddsAtBet": 1.13,
+    "settled": true,
+    "createdAt": "2026-06-08T17:23:40.460Z",
+    "updatedAt": "2026-06-08T17:23:40.460Z",
+    "settledAt": "2026-06-08T21:04:05.798Z",
+    "result": "win",
+    "payout": 1.69
+  }
+]
